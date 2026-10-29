@@ -1,0 +1,22 @@
+{
+  "wheel_id": 504,
+  "structure": "umbrella",
+  "slug": "bestsydneyrestaurants-102",
+  "project": "restaurants-sydney-pros-and-cons-583ffc8c9fa8fbd1533e8500e88fc9",
+  "parent_t1_ref": "bestsydneyrestaurants-150",
+  "node_role": "feeder",
+  "money_target": "bestsydneyrestaurants.com.au",
+  "primary_kw": "restaurants sydney pros and cons",
+  "intended_url": "https://sitesau.github.io/bestsydneyrestaurants-102/",
+  "tier": "T2",
+  "writeback_nonce": "6ff232655a278204",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/restaurants-sydney-89e66a5424acf1d8587b452ec4093fff7379896f/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
